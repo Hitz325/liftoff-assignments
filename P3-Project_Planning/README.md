@@ -8,8 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
- - ![Wireframe 1](https://docs.google.com/drawings/d/1qdF14K36wVizstoDTjM9C4QXPERIvx2w3cHlXSxlFAU/edit?usp=sharing)
- - ![Wireframe 2](https://docs.google.com/drawings/d/1dtIlC4WAAsB_AfpdDJMBHh6fS3JA1wBQ-1MQuGd26cs/edit?usp=sharing)
+ - ![Wireframe 1](https://github.com/Hitz325/outdooreventslog/blob/8a353b3766fbb5ed6ee08747f453f56d0fb1f4bd/Wireframes1.png)
+ - ![Wireframe 2](https://github.com/Hitz325/outdooreventslog/blob/8a353b3766fbb5ed6ee08747f453f56d0fb1f4bd/Wireframe2.png)
 
 
 ### Project Tracker
