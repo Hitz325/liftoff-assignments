@@ -13,8 +13,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/tUy1OLVB/zac-o-group-a
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/Hitz325/outdooreventslog
