@@ -9,7 +9,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
  - ![Wireframe 1](https://github.com/Hitz325/outdooreventslog/blob/8a353b3766fbb5ed6ee08747f453f56d0fb1f4bd/Wireframes1.png)
+ 
  - ![Wireframe 2](https://github.com/Hitz325/outdooreventslog/blob/8a353b3766fbb5ed6ee08747f453f56d0fb1f4bd/Wireframe2.png)
+ 
+ - ![Wireframe 3](https://github.com/Hitz325/outdooreventslog/blob/e14f16e12ad2932b59bc9e80f101ac5eed475a20/Wireframe3.png)
 
 
 ### Project Tracker
